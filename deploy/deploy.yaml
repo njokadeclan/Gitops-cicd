@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: demo-app
-        image: njokadeclan/demo-app:v1
+        image: njokadeclan/demo-app:v20250725160910
         ports:
         - containerPort: 5000
